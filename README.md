@@ -26,11 +26,11 @@ npm install
 ### 2. Configure environment
 Edit `.env` and set your Anthropic API key:
 ```
-GEMINI_API_KEY=your_gemini_api_key_here
+Grok_API_KEY=your_grok_api_key_here
 JWT_SECRET=any-random-secret-string
 PORT=3000
 ```
-Get a FREE API key at: https://aistudio.google.com/apikey
+Get a FREE API key at: https://console.groq.com/keys
 
 ### 3. Run the app
 ```bash
